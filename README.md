@@ -1,2 +1,4 @@
 # Happy-Independence-Day
-Built with using HTML,CSS and JavaScript
+<hr>
+<img src="HID.png">
+
